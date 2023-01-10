@@ -1,0 +1,24 @@
+{
+  "name": "thyduong.github.io",
+  "version": "1.0.0",
+  "description": "init nodejs web",
+  "main": "main.js",
+  "dependencies": {
+    "mixpanel": "^0.17.0",
+    "mixpanel-browser": "^2.45.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thyduong/thyduong.github.io.git"
+  },
+  "author": "duong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thyduong/thyduong.github.io/issues"
+  },
+  "homepage": "https://github.com/thyduong/thyduong.github.io#readme"
+}
