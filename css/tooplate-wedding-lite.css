@@ -564,7 +564,8 @@ strong {
   RSVP              
 -----------------------------------------*/
 .rsvp-section {
-  background-image: url('../images/closeup-shot-newlywed-couple-sitting-bench.jpg');
+  /* background-image: url('../images/closeup-shot-newlywed-couple-sitting-bench.jpg'); */
+  background-image: url('../photos/VIN00384.JPG');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -653,7 +654,7 @@ strong {
 -----------------------------------------*/
 .site-footer {
   /* background-image: url('../images/young-asian-pregnant-couple-using-laptop.jpeg'); */
-  background-image: url('../photos/VIN00308 (4).png');
+  background-image: url('../photos/footer.png');
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 150px;
